@@ -1,0 +1,11 @@
+###how to use
+google "windows scheduled task python"
+add Python/getimg.py to it
+
+
+###how it works
+1) Python/getimg.py
+grab and save the wallpaper (image) & the description (text) from bing.com
+
+2) C++/bing/
+write the description on the image and set it as PC desktop wallpaper
