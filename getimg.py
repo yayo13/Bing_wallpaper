@@ -26,7 +26,7 @@ class Getimage(object):
         self.basepath = 'http://www.bing.com'
         self.imgurl = 0
         
-        self.ft = put_chinese_text('wqy-zenhei.ttc')
+        self.ft = put_chinese_text('G:/PROJECTS/OTHERS/Bing_wallpaper/wqy-zenhei.ttc')
 
     def crawb(self):
         print 'analyzing web data...',
